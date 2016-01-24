@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import random
 
+__author__="codecafe-io"
+
 '''
 Simple guessing game for trying out 
 number of guesses before 
